@@ -19,7 +19,7 @@
     "virtualNetworkName": "dscVNET",
     "location": "[resourceGroup().location]",
     "_artifactsLocationSasToken": "",
-    "_artifactsLocation": "https://raw.githubusercontent.com/samzri1/lab-azure-arm/DSC/",
+    "_artifactsLocation": "https://raw.githubusercontent.com/samzri1/lab-azure-arm/main/",
     "configurationFunction": "ContosoWebsite.ps1\\ContosoWebsite",
     "moduleFilePath": "ContosoWebsite.ps1.zip",
     "imageSKU": "2019-Datacenter",
